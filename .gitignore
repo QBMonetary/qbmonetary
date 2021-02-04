@@ -1,0 +1,13 @@
+*.pyc
+*.egg
+*.egg-info
+.eggs/
+.vagrant/
+dist/
+.DS_Store
+
+# Tests
+.coverage
+.noseids
+.tox/
+build/
